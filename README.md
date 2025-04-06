@@ -1,4 +1,4 @@
-# 🧭 Campus Navigator
+# 🧭 Dijkstra Based Campus Navigator
 
 A Python-based University Campus Navigation system that utilizes OpenStreetMap (OSM) data and Plotly.js to visually display the shortest walking path between selected nodes on a campus map. The backend uses Dijkstra's Algorithm for shortest path calculation.
 
